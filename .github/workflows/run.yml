@@ -26,7 +26,7 @@ jobs:
         run: |
           echo "Fetching news content..."
 
-          raw_content=$(curl -s -m 10 "https://api.03c3.cn/api/zb")
+          raw_content=$(curl -s -m 10 "https://api.03c3.cn/api/zb?type=text")
 
           formatted_content=$(echo "$raw_content" | sed 's/$/\n/g')
           formatted_content="${formatted_content}\n\n![图片](https://api.03c3.cn/api/zb)"
