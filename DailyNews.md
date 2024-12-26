@@ -1,9 +1,35 @@
-ErrorException: Undefined array key "imageUrl" in /www/wwwroot/API/app/logic/ApiLogic.php:39<br />
+NEWS 农历
 
-Stack trace:<br />
+十一月廿七
 
-#0 /www/wwwroot/API/app/logic/ApiLogic.php(39): support\App::{closure}()<br />
+每天3分钟读懂世
 
-#1 /www/wwwroot/API/app/controller/ApiController.php(34): app\logic\ApiLogic->zb()<br />
+1、国家医保局：全国所有省份已账户共济范围扩大至近亲属；
 
-#2 /www/wwwroot/API/vendor/workerman/webman-framework/src/App.php(319): app
+2、第五次全国经济普查：2023 129.4万亿，较初核增3.4万亿; 3、商务部：将白兰地反倾销案的 2025年4月5日；
+
+4、台媒：柯文哲被羁押113天，涉收贿、图利、公益侵占3罪，月；
+
+5、世界银行上调今年中国GDP增国今年GDP增速能够达到4.9%；
+
+6、英媒曝：阿萨德妻子白血病复疗，存活几率仅为50%；
+
+7、外媒：当地26日，挪威北部一巴坠入湖中，至少3人死亡，中假客受轻伤;
+
+8、印媒：多家中企'重新'进军印印经济关系可能缓和;
+
+9、韩国总理办公室声明：考虑对国团体游客试行免签制度。到202 和东南亚五国的团体游客将免签；
+
+10、阿塞拜疆航空坠毁客机黑匣者发声：飞越车臣时听到'砰砰'两孔洞;
+
+11、马斯克SpaceX估值飙至250 独角兽诞生;
+
+12、“俄罗斯商品馆'被曝光：以多地开始严查，业内人士：明年或
+
+13、当地25日，叙利亚内政部人省遭伏击，致14死10伤；
+
+14、以色列宣布扩大生产'箭-3' 导弹攻防战或进入新阶段；
+
+15、俄罗斯货船船舱连续三次爆
+
+![图片](https://api.03c3.cn/api/zb)
