@@ -1,11 +1,27 @@
-ErrorException: json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /www/wwwroot/API/app/logic/ApiLogic.php:38<br />
+NEWS 农历腊月廿一
 
-Stack trace:<br />
+每天3分钟读懂世！
 
-#0 [internal function]: support\App::{closure}()<br />
+1、自然资源部：我国甘肃、内蒙大型金矿，新增金资源量168吨；
 
-#1 /www/wwwroot/API/app/logic/ApiLogic.php(38): json_decode()<br />
+2、中央、国务院发文：减少考试每天体育活动不低于2小时，支持：岁幼儿;
 
-#2 /www/wwwroot/API/app/controller/ApiController.php(34): app\logic\ApiLogic->zb()<br />
+3、金价节前大涨逼近830元/克，到三公斤，专家：黄金仍有一定上风险依然存在;
 
-#3 /www/wwwroot/API/vendor/workerman/webman-framework/src/App.php(319): app
+4、安徽东至县东流镇一辆大货车发生垮塌，货车坠河，镇政府：：车，未造成人员伤亡；19日早，：侧翻致2人死亡，警方：已排除驾嫌疑;
+
+5、19日，我国首次实现液氧煤汨日三试'，支撑新一代火箭更高频》
+
+6、万达电影：预计2024年亏损量国内直营影院实现票房57.2亿元；
+
+7、长沙'重金'推入境游方案：游、奖外宣文案；
+
+8、上海发布以旧换新细则：“国起扩到12种，手机、平板、智能习品也可补贴;
+
+9、外媒：北约一战斗机教官在亡，曾在乌培训数百乌军人驾驶战
+
+10、泰媒：泰国数字经济和社会承诺与泰国合作打击跨国电信诈骗 11、韩媒：尹锡悦19日正式进入史上首位现任总统被拘留调查先例持者攻入法院打砸破坏、与警察捕，多名警察伤势严重！；
+
+12、19日，TikTok已正式停止在 10余款字节系App也已从美服务的美国国家安全顾问：计划于1月 TikTok;
+
+![图片](https://api.03c3.cn/api/zb)
