@@ -1,29 +1,11 @@
-NEWS 农历腊月廿五
+ErrorException: Trying to access array offset on value of type null in /www/wwwroot/API/app/service/ocrService.php:33<br />
 
-每天3分钟读懂世！
+Stack trace:<br />
 
-1、中央气象台：发布暴雪蓝色肃、宁夏、陕西、河南等地部分地暴雪，陕西一带将成强降雪中心，雪量级;
+#0 /www/wwwroot/API/app/service/ocrService.php(33): support\App::{closure}()<br />
 
-2、北京市卫健委：抖音集团将在设三级医院。抖音回应：系字节旗区，非新业务；
+#1 /www/wwwroot/API/app/logic/ApiLogic.php(52): app\service\ocrService->ocr()<br />
 
-3、民政部等18部门联合发文：不个人信息博眼球、赚流量和进行等;
+#2 /www/wwwroot/API/app/controller/ApiController.php(34): app\logic\ApiLogic->zb()<br />
 
-4、中国足球职业联赛联合会23日着中国足球职业联赛管办分离改革
-
-5、中国国家铁路集团：截至2 12306已累计发售春运期间车票2.
-
-6、'小电驴'以旧换新今年继续补补贴，鼓励采用支付立减等方式，消费者;
-
-7、网曝河南一地要求理发店做空年都要检测，一年要交400元，当店属于公共场所，要求空气质量检 8、上海：9岁一26岁男性HPV疫展开;
-
-9、韩国公调处：决定将尹锡悦泄滥用职权'案移交给检察机关；韩将拆除务安机场跑道尽头混凝土设
-
-10、泰国总理计划2月初访华，泰国游客赴泰旅游信心;
-
-11、美国想要TikTok50%股份，望美方多倾听企业和民众的呼声；
-
-12、特朗普驱逐非法移民执法行校、教堂抓人并取消假释；
-
-13、外媒：当地22日，洛杉矶又个小时就蔓延至9400多英亩，3.1 令！气象学家：南加州将出现又
-
-![图片](https://api.03c3.cn/api/zb)
+#3 /www/wwwroot/API/vendor/workerman/webman-framework/src/App.php(319): app
